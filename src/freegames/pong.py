@@ -11,7 +11,7 @@ Exercises
 6. Add a second ball.
 """
 
-from random import choice, random
+from random import choice, random//MEMO
 from turtle import *
 
 from freegames import vector
